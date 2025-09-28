@@ -86,9 +86,7 @@ curl -X POST http://localhost:8080/product  -F "p={\"name\":\"Laptop\",\"price\"
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="https://dummyimage.com/800x400/000/fff&text=API+Demo" alt="API Demo" width="80%">
-</p>
+
 
 ---
 
