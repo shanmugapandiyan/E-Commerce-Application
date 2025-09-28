@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1526378722484-cc5c510f9f3d?auto=format&fit=crop&w=1400&q=80" 
+  <img src="[https://images.unsplash.com/photo-1526378722484-cc5c510f9f3d?auto=format&fit=crop&w=1400&q=80](https://images.wallpaperscraft.com/image/single/gradient_color_shades_140497_3840x2160.jpg)" 
        alt="Backend Project Banner" width="100%">
 </p>
 
